@@ -1,1 +1,5 @@
 
+[submodule "1st-semester/java/lab3"]
+	path = 1st-semester/java/lab3
+	url = https://github.com/cgsg-tt6itmo/s1-java-lab3
+	branch = main
