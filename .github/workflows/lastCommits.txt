@@ -1,2 +1,2 @@
 s1-diskra-Huffman: 58a0ac18d225c2cb068ae4ab9a9be18cd04f11cc
-s1-java-lab3: e1a1610f8d6bb2c551306f44a8648115f2091c8d
+s1-java-lab3: 3c2b01778c7a4fe94e90d6d537bd04c3ad8784c7
