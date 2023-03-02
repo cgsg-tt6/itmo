@@ -15,7 +15,7 @@
 <details open><summary>2nd semester</summary>
 
 ### Java
-- [Laba 5](https://github.com/cgsg-tt6ITMO/s2-java-lab5/tree/master/LabaN5)
+- [Laba 5](https://github.com/cgsg-tt6ITMO/s2-java-lab5/)
 
 
 </details>
